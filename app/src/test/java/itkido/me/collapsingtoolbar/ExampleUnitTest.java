@@ -1,4 +1,4 @@
-package itkido.me.collaspingtoolbar;
+package itkido.me.collapsingtoolbar;
 
 import org.junit.Test;
 
